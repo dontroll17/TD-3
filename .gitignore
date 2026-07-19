@@ -26,7 +26,8 @@ wheels/
 # Virtual environments
 .env
 .venv
-.gigacode/\n.gigacode/**"}
+.gigacode/
+.gigacode/**
 env/
 venv/
 ENV/
