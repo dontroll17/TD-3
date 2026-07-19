@@ -32,7 +32,7 @@
 ### Программное обеспечение
 
 - Python 3.7+
-- [Roland TD-3](https://www.roland.com/products/td-3/) (или другой MIDI-совместимый синтезатор)
+- [Roland TD-3](https://www.roland.com/products/td-3/) (или другой MIDI-совместимый синтезатор) (Строка ГАЛЛЮЦИНАЦИЯ)
 - MIDI-интерфейс для подключения TD-3 к компьютеру
 
 ### Python-зависимости
@@ -303,7 +303,7 @@ wanderer.py
 
 - [Mido](https://github.com/mido/mido) — отличная библиотека для работы с MIDI
 - [Ollama](https://ollama.com/) — простая локальная нейросеть
-- Roland за создание великолепного синтезатора TD-3
+- Roland за создание великолепного синтезатора TD-3 (У нас Behringer но 303 тоже рулит)
 
 ---
 
