@@ -5,7 +5,7 @@ import time
 import random
 
 # ИМПОРТИРУЕМ МАТЕМАТИЧЕСКОЕ ЯДРО ON TEST NOW!!!!
-from input.py import calculate_19tet_pitch_bend, MIDI_PORT_NAME, BASE_NOTE # type: ignore
+from Input import calculate_19tet_pitch_bend, MIDI_PORT_NAME, BASE_NOTE # type: ignore
 
 # ==============================================================================
 # НАСТРОЙКИ ИНТЕРФЕЙСОВ
